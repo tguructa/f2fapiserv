@@ -1,0 +1,22 @@
+{
+  "name": "f2fapiserv",
+  "version": "1.0.0",
+  "description": "api for face2face app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tguructa/f2fapiserv.git"
+  },
+  "author": "thiru",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tguructa/f2fapiserv/issues"
+  },
+  "homepage": "https://github.com/tguructa/f2fapiserv#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
