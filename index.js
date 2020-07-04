@@ -12,7 +12,7 @@ const contacts = [{
         cname: 'Thiru',
         cnumber: 'OTg0MDE1MTAwOA=='
     },
-	,
+	
     {
         cname: 'Temp1',
         cnumber: 'MjAyMDA3MDQxMjAw'
